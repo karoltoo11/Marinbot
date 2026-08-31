@@ -4,7 +4,7 @@ This was my second Discord bot. I’ll also be releasing the first one—which I
 - https://discord.gg/YZ4ec83nKM\
 ## How to Use:
 
-1.  Join the discord servers from link https://discord.gg/YZ4ec83nKM\
+1. Join the discord servers from link https://discord.gg/YZ4ec83nKM\
 2. All posible commands are on channel linked here: https://discord.com/channels/1543304185968197693/1543304653859717243 or below.
 3. Go to channel https://discord.com/channels/1543304185968197693/1543304521181306891 and write your first command!
 ## All commands

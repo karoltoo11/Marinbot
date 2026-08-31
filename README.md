@@ -4,8 +4,10 @@ This was my second Discord bot. I’ll also be releasing the first one—which I
 - https://discord.gg/YZ4ec83nKM\
 <h2>How to Use:</h2>
 1. Join the discord servers from link https://discord.gg/YZ4ec83nKM\
+
 2. All posible commands are on channel linked here: https://discord.com/channels/1543304185968197693/1543304653859717243 or below.
-3. Go to channel https://discord.com/channels/1543304185968197693/1543304521181306891 and write your first command!
+3. 
+4. Go to channel https://discord.com/channels/1543304185968197693/1543304521181306891 and write your first command!
 <h2>All commands</h2>
 - /happy - Happy Marin gif.
 - /sad - Sad Marin gif.

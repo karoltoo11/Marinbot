@@ -2,6 +2,7 @@
 This was my second Discord bot. I’ll also be releasing the first one—which I wrote for the same competition—at some point in the future. It was a really cool experience for me; I had to figure out a few tricky things.
 <h2>Discord server with bot:</h2>
 - https://discord.gg/YZ4ec83nKM\
+
 ## How to Use:
 
 1. Join the discord servers from link https://discord.gg/YZ4ec83nKM\
